@@ -1,0 +1,6 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated study plan may contain personal information
+study_plan.txt

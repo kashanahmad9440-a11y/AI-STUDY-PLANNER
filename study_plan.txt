@@ -1,0 +1,33 @@
+ ================================================
+MY AI STUDY PLAN
+================================================
+Student name: Aftab
+AI learning goal: MLOPs
+Study days per week: 2
+Study hours per study day: 8
+Total weekly study hours: 16
+
+PERSONALIZED WEEKLY PLAN
+------------------------------------------------
+Use this simple routine on each of your study days:
+1. Review your previous notes (10% of your session).
+2. Learn one new concept or follow a tutorial (40%).
+3. Practise with a small exercise or coding task (40%).
+4. Write down what you learned and what to review (10%).
+
+Your focus: make steady progress toward 'MLOPs'.
+Beginner tip: split big goals into small weekly milestones.
+
+SUGGESTED STUDY DAYS
+- Monday: 8 hour(s) — learn, practise, and review.
+- Tuesday: 8 hour(s) — learn, practise, and review.
+
+WEEKLY CHECK-IN
+- What did I learn this week?
+- What was difficult?
+- What will I practise next week?
+
+Created on: 2026-10-28 04:54
+
+This planner uses basic Python. It does not call an AI API.
+================================================
